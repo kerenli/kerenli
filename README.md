@@ -1,4 +1,4 @@
-## Keren Li
+Keren Li
 Assistant Professor of Statistics
 ============
 
