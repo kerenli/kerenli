@@ -71,4 +71,4 @@ Skills
 
 - Programming Languages: R, Python, Bash scripts, C++
 - Tools: LaTeX
-- Languages: English (Fluent), 
+- Languages: English (Fluent), Chinese (Fluent)
