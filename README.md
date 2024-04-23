@@ -1,6 +1,6 @@
 Keren Li
-Assistant Professor of Statistics
 ============
+Assistant Professor of Statistics
 
 --------------------------------------            ----------------------------
 Department of Mathematics                         kli@uab.edu
