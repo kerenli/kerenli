@@ -3,12 +3,12 @@ Keren Li
 Assistant Professor of Statistics
 
 --------------------------------------          
-Department of Mathematics\\                         
-University of Alabama at Birmingham\\              
+Department of Mathematics                    
+University of Alabama at Birmingham           
 Birmingham, AL 35294, USA          
 
-kli@uab.edu\\
-li.keren.cn@gmail.com\\
+kli@uab.edu
+li.keren.cn@gmail.com
 872-588-2017
 --------------------------------------            
 
