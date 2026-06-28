@@ -8,8 +8,14 @@ https://kerenli.github.io
 
 ---
 
-## Research
+## Research Interests
 
+- Distributed machine learning  
+- Federated learning  
+- Deep learning  
+- Bioinformatics  
+- Financial mathematics
+ 
 My research focuses on **Representative Learning (RepL)** — a data‑centric framework for distributed AI where nodes communicate structured pseudo‑data instead of model parameters or gradients.
 
 - Distributed machine learning under heterogeneity  
