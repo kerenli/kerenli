@@ -6,6 +6,7 @@ Department of Mathematics, University of Alabama at Birmingham
 🌐 **Personal Website**  
 https://kerenli.github.io  
 
+<Google Scholar>[https://scholar.google.com/citations?user=1xJ8PmIAAAAJ&hl=en]
 ---
 
 ## Research Interests
